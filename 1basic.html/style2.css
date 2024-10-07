@@ -1,0 +1,17 @@
+table{
+    border: 1px solid rgb(187, 23, 23);
+    border-collapse: collapse;
+    background-color: aqua;
+}
+th,td{
+    text-align: center;
+    padding: 10px;
+}
+th{
+    background-color: chocolate;
+    color: bisque;
+}
+caption{
+    font-weight: initial
+    ;
+}
